@@ -1,6 +1,6 @@
 # Customizable micro pad
 
-<<<<<<< HEAD:README.md
+
 ![](docs/micro_pad.png)
 PCB for a customizable micro pad.
 =======
